@@ -1,0 +1,5 @@
+{
+  "connection": "CONNECTION",
+  "testImagePath": "TEST_IMAGE_PATH",
+  "modelName": "MODEL_NAME"
+}
