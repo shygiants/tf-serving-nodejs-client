@@ -1,6 +1,6 @@
 {
   "name": "tf-serving-nodejs-client",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Node.js Client for TensorFlow Serving",
   "main": "./build/index.js",
   "scripts": {

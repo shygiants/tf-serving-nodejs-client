@@ -1,5 +1,6 @@
 {
   "connection": "CONNECTION",
   "testImagePath": "TEST_IMAGE_PATH",
-  "modelName": "MODEL_NAME"
+  "modelName": "MODEL_NAME",
+  "version": "VERSION"
 }
