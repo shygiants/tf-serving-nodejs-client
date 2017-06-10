@@ -32,6 +32,7 @@ class Client {
    * 
    * @param {Buffer} image
    * @param {string} name 
+   * @return {Promise}
    */
   predict(image, name) {
     const decoded = jpeg.decode(image, true);
